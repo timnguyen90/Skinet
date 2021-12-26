@@ -1,0 +1,257 @@
+﻿++Solution 'skinet' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:skinet.sln
+++Core
+i:{00000000-0000-0000-0000-000000000000}:Core
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\core\core.csproj
+++Dependencies
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:>440
+i:{77c67fc2-67c6-47e0-8b24-a4c3e3729182}:>323
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:>324
+++Entities
+i:{77c67fc2-67c6-47e0-8b24-a4c3e3729182}:c:\users\tim\desktop\skinet\core\entities\
+++Identity
+++OrderAggregate
+++BaseEntity.cs
+i:{77c67fc2-67c6-47e0-8b24-a4c3e3729182}:c:\users\tim\desktop\skinet\core\entities\baseentity.cs
+++BasketItem.cs
+++CustomerBasket.cs
+++Product.cs
+i:{77c67fc2-67c6-47e0-8b24-a4c3e3729182}:c:\users\tim\desktop\skinet\core\entities\product.cs
+++ProductBrand.cs
+i:{77c67fc2-67c6-47e0-8b24-a4c3e3729182}:c:\users\tim\desktop\skinet\core\entities\productbrand.cs
+++ProductType.cs
+i:{77c67fc2-67c6-47e0-8b24-a4c3e3729182}:c:\users\tim\desktop\skinet\core\entities\producttype.cs
+++Interfaces
+i:{77c67fc2-67c6-47e0-8b24-a4c3e3729182}:c:\users\tim\desktop\skinet\core\interfaces\
+++IBasketRepository.cs
+++IGenericRepository.cs
+++IOrderService.cs
+++IPaymentService.cs
+++IProductRepository.cs
+i:{77c67fc2-67c6-47e0-8b24-a4c3e3729182}:c:\users\tim\desktop\skinet\core\interfaces\iproductrepository.cs
+++IResponseCacheService.cs
+++ITokenService.cs
+++IUnitOfWork.cs
+++Specifications
+++BaseSpecification.cs
+++ISpecifcation.cs
+++OrderByPaymentIntentWithItemsSpecification.cs
+++OrdersWithItemsAndOrderingSpecification.cs
+++ProductSpecParams.cs
+++ProductsWithFiltersForCountSpecification.cs
+++ProductsWithTypesAndBrandsSpecification.cs
+++Analyzers
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:analyzers
+i:{77c67fc2-67c6-47e0-8b24-a4c3e3729182}:analyzers
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:analyzers
+++Frameworks
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:frameworks
+i:{77c67fc2-67c6-47e0-8b24-a4c3e3729182}:frameworks
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:frameworks
+++Packages
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:packages
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:packages
+++Address.cs
+++AppUser.cs
+++DeliveryMethod.cs
+++Order.cs
+++OrderItem.cs
+++OrderStatus.cs
+++ProductItemOrdered.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{77c67fc2-67c6-47e0-8b24-a4c3e3729182}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{77c67fc2-67c6-47e0-8b24-a4c3e3729182}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\users\tim\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.NETCore.App
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\users\tim\desktop\skinet\api\microsoft.netcore.app
+i:{77c67fc2-67c6-47e0-8b24-a4c3e3729182}:c:\users\tim\desktop\skinet\core\microsoft.netcore.app
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\microsoft.netcore.app
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (5.0.3)
+++Infrastructure
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\users\tim\desktop\skinet\infrastructure\infrastructure.csproj
+i:{00000000-0000-0000-0000-000000000000}:Infrastructure
+++Data
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\data\
+++Config
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\data\config\
+++Migrations
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\data\migrations\
+++SeedData
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\data\seeddata\
+++.DS_Store
+++BasketRepository.cs
+++GenericRepository.cs
+++ProductRepository.cs
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\data\productrepository.cs
+++SpecificationEvaluator.cs
+++StoreContext.cs
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\data\storecontext.cs
+++StoreContextSeed.cs
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\data\storecontextseed.cs
+++UnitOfWork.cs
+++AppIdentityDbContext.cs
+++AppIdentityDbContextSeed.cs
+++Services
+++Projects
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:projects
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:projects
+++DeliveryMethodConfiguration.cs
+++OrderConfiguration.cs
+++OrderItemConfiguration.cs
+++ProductConfiguration.cs
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\data\config\productconfiguration.cs
+++20210226053111_PostGres initial.cs
+++StoreContextModelSnapshot.cs
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\data\migrations\storecontextmodelsnapshot.cs
+++brands.json
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\data\seeddata\brands.json
+++delivery.json
+++products.json
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\data\seeddata\products.json
+++types.json
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\data\seeddata\types.json
+++20210226053226_PostGres identity initial.cs
+++AppIdentityDbContextModelSnapshot.cs
+++OrderService.cs
+++PaymentService.cs
+++ResponseCacheService.cs
+++TokenService.cs
+++Microsoft.AspNetCore.Identity (2.2.0)
+++Microsoft.EntityFrameworkCore.Sqlite (5.0.1)
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:>468
+++Microsoft.IdentityModel.Tokens (6.8.0)
+++Npgsql.EntityFrameworkCore.PostgreSQL (5.0.2)
+++StackExchange.Redis (2.2.4)
+++Stripe.net (39.38.0)
+++System.IdentityModel.Tokens.Jwt (6.8.0)
+++20210226053111_PostGres initial.Designer.cs
+++20210226053226_PostGres identity initial.Designer.cs
+++API
+i:{00000000-0000-0000-0000-000000000000}:API
+++Connected Services 
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:>441
+++Properties
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\users\tim\desktop\skinet\api\properties\
+++Content
+++Controllers
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\users\tim\desktop\skinet\api\controllers\
+++Dtos
+++Errors
+++Extensions
+++Helpers
+++Middleware
+++appsettings.Development.json
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\users\tim\desktop\skinet\api\appsettings.development.json
+++identity.db
+++Program.cs
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\users\tim\desktop\skinet\api\program.cs
+++skinet.db
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\users\tim\desktop\skinet\api\skinet.db
+++Startup.cs
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\users\tim\desktop\skinet\api\startup.cs
+++WeatherForecast.cs
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\users\tim\desktop\skinet\api\weatherforecast.cs
+++No service dependencies discovered
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:>442
+++launchSettings.json
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\users\tim\desktop\skinet\api\properties\launchsettings.json
+++images
+++AccountController.cs
+++BaseApiController.cs
+++BasketController.cs
+++BuggyController.cs
+++ErrorController.cs
+++FallbackController.cs
+++OrdersController.cs
+++PaymentsController.cs
+++ProductsController.cs
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\users\tim\desktop\skinet\api\controllers\productscontroller.cs
+++WeatherForecastController.cs
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\users\tim\desktop\skinet\api\controllers\weatherforecastcontroller.cs
+++AddressDto.cs
+++BasketItemDto.cs
+++CustomerBasketDto.cs
+++LoginDto.cs
+++OrderDto.cs
+++OrderItemDto.cs
+++OrderToReturnDto.cs
+++ProductToReturnDto.cs
+++RegisterDto.cs
+++UserDto.cs
+++ApiException.cs
+++ApiResponse.cs
+++ApiValidationErrorResponse.cs
+++ApplicationServiceExtensions.cs
+++ClaimsPrincipalExtensions.cs
+++IdentityServiceExtensions.cs
+++SwaggerServiceExtensions.cs
+++UserManagerExtensions.cs
+++CachedAttribute.cs
+++MappingProfiles.cs
+++OrderItemUrlResolver.cs
+++Pagination.cs
+++ProductUrlResolver.cs
+++ExceptionMiddleware.cs
+++Microsoft.AspNetCore.Analyzers
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:c:\users\tim\desktop\skinet\api\microsoft.aspnetcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (8.1.1)
+++Microsoft.AspNetCore.Authentication.JwtBearer (5.0.1)
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:>457
+++Microsoft.AspNetCore.Authentication.OpenIdConnect (5.0.1)
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:>456
+++Microsoft.EntityFrameworkCore.Design (5.0.1)
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:>454
+++Swashbuckle.AspNetCore (5.6.3)
+i:{81700b84-a4bc-469d-9dd8-a934034e5657}:>455
+++products
+++boot-ang1.png
+++boot-ang2.png
+++boot-core1.png
+++boot-core2.png
+++boot-redis1.png
+++glove-code1.png
+++glove-code2.png
+++glove-react1.png
+++glove-react2.png
+++hat-core1.png
+++hat-react1.png
+++hat-react2.png
+++sb-ang1.png
+++sb-ang2.png
+++sb-core1.png
+++sb-core2.png
+++sb-react1.png
+++sb-ts1.png
+++Class1.cs
+i:{77c67fc2-67c6-47e0-8b24-a4c3e3729182}:c:\users\tim\desktop\skinet\core\class1.cs
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\class1.cs
+++20210220075948_InitialCreate.cs
+++20210220075948_InitialCreate.Designer.cs
+++20210220093528_InitialCreate.cs
+++20210220093528_InitialCreate.Designer.cs
+++wwwroot
+++20211221033404_InitialMigration.cs
+++20211221033404_InitialMigration.Designer.cs
+++obj
+++.EntityFrameworkCore.targets
+++20211221045711_InitialMigration.cs
+++20211221045711_InitialMigration.Designer.cs
+++20211221050515_Initial.cs
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\data\migrations\20211221050515_initial.cs
+++20211221050515_Initial.Designer.cs
+i:{7093c5b2-0f96-4afc-8092-b927b49e9762}:c:\users\tim\desktop\skinet\infrastructure\data\migrations\20211221050515_initial.designer.cs
+++skinet.db-shm
+++skinet.db-wal
